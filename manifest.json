@@ -1,0 +1,27 @@
+{
+	"manifest_version": 2,
+
+	"name": "Social Media Share",
+	"description": "A chrome extension which enables sharing the current URL on various social media platforms.",
+	"version": "1.0.0",
+
+	"browser_action": {
+		"default_icon": "assets/icons/icon-19.jpg",
+		"default_popup": "main.html"
+	},
+	
+	"icons": {
+		"48": "assets/icons/icon-48.jpg",
+		"128": "assets/icons/icon-128.jpg"
+	},
+	
+	"permissions": [
+		"history"
+	],
+	
+	"content_scripts": [
+		{
+			"js": ["assets/script.js"]
+		}
+	]
+}
