@@ -6,13 +6,13 @@
 	"version": "1.0.0",
 
 	"browser_action": {
-		"default_icon": "assets/icons/icon-19.jpg",
-		"default_popup": "main.html"
+		"default_icon"  : "assets/icons/icon-19.jpg",
+		"default_popup" : "main.html"
 	},
 	
 	"icons": {
-		"48": "assets/icons/icon-48.jpg",
-		"128": "assets/icons/icon-128.jpg"
+		"48"  : "assets/icons/icon-48.jpg",
+		"128" : "assets/icons/icon-128.jpg"
 	},
 	
 	"permissions": [
@@ -23,8 +23,8 @@
 	
 	"content_scripts": [
 		{
-			"matches": ["http://www.google.com/*"],
-			"js": ["assets/script.js"]
+			"matches" : ["http://www.google.com/*"],
+			"js"      : ["assets/script.js"]
 		}
 	]
 }
