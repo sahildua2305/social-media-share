@@ -16,11 +16,14 @@
 	},
 	
 	"permissions": [
-		"history"
+		"tabs",
+		"http://*/*",
+		"https://*/*"
 	],
 	
 	"content_scripts": [
 		{
+			"matches": ["http://www.google.com/*"],
 			"js": ["assets/script.js"]
 		}
 	]
