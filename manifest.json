@@ -26,5 +26,12 @@
 			"matches" : ["http://www.google.com/*"],
 			"js"      : ["assets/script.js"]
 		}
+	],
+	
+	"web_accessible_resources": [
+		"assets/share-icons/twitter.png",
+		"assets/share-icons/facebook.png",
+		"assets/share-icons/gplus2.png",
+		"assets/share-icons/linkedin.png"
 	]
 }
