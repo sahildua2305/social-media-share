@@ -7,12 +7,12 @@
 
 	"browser_action": {
 		"default_popup" : "main.html",
-		"default_icon"  : "assets/icons/icon-19.jpg"
+		"default_icon"  : "assets/icons/icon-16.png"
 	},
 	
 	"icons": {
-		"48"  : "assets/icons/icon-48.jpg",
-		"128" : "assets/icons/icon-128.jpg"
+		"16"  : "assets/icons/icon-16.png",
+		"128" : "assets/icons/icon-128.png"
 	},
 	
 	"permissions": [
