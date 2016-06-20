@@ -6,7 +6,7 @@
   ![Rating on the Chrome Web Store](https://img.shields.io/chrome-web-store/rating/lfimbgdhgeoeadgiejnpbepmooblmigd.svg "Rating on the Chrome Web Store")
 </a>
 
-A chrome extension which enables sharing the current URL on various social media platforms.
+:loudspeaker:  Share any website on Facebook, Twitter, LinkedIn and Google Plus with just one click!
 
 ### Installation
 
@@ -16,7 +16,7 @@ A chrome extension which enables sharing the current URL on various social media
 
 Or manually:
 
-1. Download or `git clone http://github.com/sahildua2305/chrome-social-media-share.git`
+1. Download or `git clone http://github.com/sahildua2305/social-media-share.git`
 2. Open Chrome extensions and click on the `Load unpacked extension` button
 3. Select the downloaded directory
 
