@@ -8,6 +8,13 @@
 
 :loudspeaker:  Share any website on Facebook, Twitter, LinkedIn and Google Plus with just one click!
 
+> A pretty basic chrome extension which does a little, but does that extremely well.
+
+Suppose you're reading blog post and you really like it and want to share it on your social profile. Either you will copy the link to that post and then share it, or you will search for social media share icons on the blog to share the post.
+
+> How about doing all this with just 1 click?
+
+
 ### Installation
 
 <a href="https://chrome.google.com/webstore/detail/social-media-share/lfimbgdhgeoeadgiejnpbepmooblmigd" target="_blank">
