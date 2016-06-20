@@ -1,0 +1,42 @@
+/*
+* @Author: sahildua2305
+* @Date:   2016-06-21 00:07:22
+* @Last Modified by:   Sahil Dua
+* @Last Modified time: 2016-06-21 00:07:30
+*/
+
+body {
+    width: 330px;
+    font-family: Arial;
+}
+
+.title {
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+.container {
+    width: 100%;
+    position: relative;
+    margin: 0 auto;
+    text-align: center;
+}
+
+ul {
+    margin-left: 0px;
+}
+
+li {
+    float: left;
+    display: inline;
+    padding: 7px;
+}
+
+li img {
+    height: 50px;
+    width: 50px;
+}
+
+.share-buttons {
+    margin: 0 auto;
+}
