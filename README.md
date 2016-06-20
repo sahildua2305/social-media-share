@@ -20,3 +20,6 @@ Or manually:
 2. Open Chrome extensions and click on the `Load unpacked extension` button
 3. Select the downloaded directory
 
+### Demo
+
+![Screenshot Demo Social Media Share](assets/extras/screenshot.png)
