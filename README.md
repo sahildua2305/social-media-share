@@ -11,7 +11,7 @@ A chrome extension which enables sharing the current URL on various social media
 ### Installation
 
 <a href="https://chrome.google.com/webstore/detail/social-media-share/lfimbgdhgeoeadgiejnpbepmooblmigd" target="_blank">
-  ![Try it now](extras/tryitnowbutton.png "Click here to install from the Chrome Web Store")
+  ![Try it now](assets/extras/tryitnowbutton.png "Click here to install from the Chrome Web Store")
 </a>
 
 Or manually:
