@@ -15,9 +15,7 @@ Suppose you're reading blog post and you really like it and want to share it on 
 
 ### Installation
 
-<a href="https://chrome.google.com/webstore/detail/social-media-share/lfimbgdhgeoeadgiejnpbepmooblmigd" target="_blank">
-  ![Try it now](assets/extras/tryitnowbutton.png "Click here to install from the Chrome Web Store")
-</a>
+[![Try it now](assets/extras/tryitnowbutton.png "Click here to install from the Chrome Web Store")](https://chrome.google.com/webstore/detail/social-media-share/lfimbgdhgeoeadgiejnpbepmooblmigd)
 
 Or manually:
 
