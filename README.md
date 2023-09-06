@@ -4,7 +4,7 @@
 [![Rating on the Chrome Web Store](https://img.shields.io/chrome-web-store/rating/lfimbgdhgeoeadgiejnpbepmooblmigd.svg "Rating on the Chrome Web Store")](https://chrome.google.com/webstore/detail/social-media-share/lfimbgdhgeoeadgiejnpbepmooblmigd)
 </a>
 
-:loudspeaker:  Share any website on Facebook, Twitter, LinkedIn and Google Plus with just one click!
+:loudspeaker:  Share any website on Facebook, Twitter and LinkedIn with just one click!
 
 > A pretty basic chrome extension which does a little, but does that extremely well.
 
